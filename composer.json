@@ -1,0 +1,12 @@
+{
+    "name": "jmcomponents/exception",
+    "description": "Custom exception for JMFramework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JMComponents\\Exception\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
